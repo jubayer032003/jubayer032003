@@ -1,20 +1,21 @@
-<!-- Header Waving Animated Banner (GitHub-Compliant Image API) -->
+<!-- ============================================================ -->
+<!-- CYBERPUNK GRADIENT WAVING HEADER                             -->
+<!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,45,65,90&height=260&section=header&text=Jubayer%20%F0%9F%9A%80&fontSize=65&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30,40,60&height=280&section=header&text=WELCOME%20TO%20MY%20DIGITAL%20REALM&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=JUBAYER%20%E2%80%A2%20AI%20%26%20COMPUTER%20VISION%20ENGINEER&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
-<!-- Profile Views Counter & Typing Animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jubayer032003&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
+<!-- Dynamic Typing Subtitle & Visitor Count -->
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jubayer032003&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="Profile Views" />
+  </p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=👋+Hello,+World!+I'm+Jubayer;🧠+AI+%26+Deep+Learning+Engineer;👁️+Computer+Vision+%26+Medical+Image+Processing;⚡+Building+Full-Stack+FastAPI+%2B+React+AI+Apps;📊+Explainable+AI+(SHAP)+System+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Jubayer;AI+%26+Deep+Learning+Engineer;Computer+Vision+%26+Medical+AI+Developer;Building+Full-Stack+FastAPI+%2B+React+Apps;Explainable+AI+(SHAP)+System+Architect" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- Live GitHub Badges -->
+<!-- Live Badges -->
 <p align="center">
   <a href="https://github.com/jubayer032003">
     <img src="https://img.shields.io/github/followers/jubayer032003?label=Followers&style=for-the-badge&color=7928CA&logo=github&logoColor=white" alt="GitHub Followers">
