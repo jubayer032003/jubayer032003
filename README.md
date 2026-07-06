@@ -21,7 +21,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/jubayer032003?tab=repositories">
-    <img src="https://img.shields.io/github/directory-file-count/jubayer032003/Heart-Failure-Prediction-AI?label=Projects&style=for-the-badge&color=00DFD8&logo=git&logoColor=white" alt="Public Repos">
+    <img src="https://img.shields.io/badge/Status-Active-00DFD8?style=for-the-badge&logo=git&logoColor=white" alt="Active Status">
   </a>
 </p>
 
@@ -135,22 +135,12 @@
   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer032003&theme=tokyonight&hide_border=true&background=1a1b26&ring=61DAFB&fire=FF0080&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<!-- Real-time Activity Graph -->
+<!-- Live Animated Activity Graph -->
 <p align="center">
   <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=jubayer032003&theme=tokyo-night&hide_border=true&area=true" alt="Jubayer's Contribution Activity Graph" />
 </p>
 
 </div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<br />
 
 ---
 
