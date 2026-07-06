@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!-- CUSTOM ANIMATED SVG BANNER (FULLY ANIMATED, NO EXTERNAL CALLS) -->
+<!-- CUSTOM ANIMATED SVG BANNER (PURE SVG, NO EXTERNAL API)       -->
 <!-- ============================================================ -->
 <div align="center">
   <svg width="100%" height="300" viewBox="0 0 900 300" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
@@ -54,7 +54,7 @@
       <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite" />
     </text>
 
-    <!-- Typing Subtitle (appears letter by letter + blinking cursor) -->
+    <!-- Typing Subtitle (fade in + blinking cursor) -->
     <text x="450" y="160" font-family="'Fira Code', monospace" font-size="18" fill="#61DAFB" text-anchor="middle" opacity="0.9">
       Machine Learning • Computer Vision • Full-Stack AI
       <animate attributeName="opacity" values="0;0.9;0.9" dur="3s" begin="0s" fill="freeze" />
@@ -65,29 +65,26 @@
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
     </rect>
 
-    <!-- Small Decorative Bar -->
+    <!-- Decorative Animated Bar -->
     <rect x="250" y="200" width="400" height="2" fill="url(#bgGrad)" opacity="0.5">
       <animate attributeName="width" values="400;800;400" dur="5s" repeatCount="indefinite" />
     </rect>
   </svg>
 </div>
 
-<!-- ============================================================ -->
-<!-- PROFILE VIEWS & DYNAMIC TYPING -->
-<!-- ============================================================ -->
+<!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jubayer032003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=👋+Hello,+World!+I'm+Jubayer;🧠+AI+%26+Deep+Learning+Engineer;👁️+Computer+Vision+%26+Medical+Image+Processing;⚡+Building+Full-Stack+FastAPI+%2B+React+AI+Apps;📊+Explainable+AI+(SHAP)+System+Architect" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ============================================================ -->
-<!-- LIVE BADGES -->
-<!-- ============================================================ -->
+<!-- Live Badges -->
 <p align="center">
   <a href="https://github.com/jubayer032003">
     <img src="https://img.shields.io/github/followers/jubayer032003?label=Followers&style=for-the-badge&color=7928CA&logo=github&logoColor=white" alt="GitHub Followers">
@@ -104,9 +101,7 @@
 
 <br />
 
-<!-- ============================================================ -->
-<!-- TROPHIES -->
-<!-- ============================================================ -->
+<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jubayer032003&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="Trophies" />
 </div>
@@ -223,15 +218,14 @@
   <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=jubayer032003&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<!-- ===== SNAKE ANIMATION (Setup instructions below) ===== -->
-<!-- Uncomment after GitHub Action first run -->
-<!--
+<!-- ============================================================ -->
+<!-- ANIMATED CONTRIBUTION SNAKE (requires one-time GitHub Action) -->
+<!-- ============================================================ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake.svg">
 </picture>
--->
 
 </div>
 
