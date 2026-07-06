@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,45,65,90&height=260&section=header&text=Jubayer%20%F0%9F%9A%80&fontSize=65&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
+<!-- Profile views badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayer032003&label=Profile%20Views&color=0e75b6&style=flat" alt="jubayer032003" /> </p>
+
 <!-- Dynamic Animated Typing Text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +13,7 @@
   </a>
 </p>
 
-<!-- Live GitHub Badges -->
+<!-- Live GitHub Badges with extra stats -->
 <p align="center">
   <a href="https://github.com/jubayer032003">
     <img src="https://img.shields.io/github/followers/jubayer032003?label=Followers&style=for-the-badge&color=7928CA&logo=github&logoColor=white" alt="GitHub Followers">
@@ -23,20 +26,24 @@
   <a href="https://github.com/jubayer032003?tab=repositories">
     <img src="https://img.shields.io/badge/Status-Active-00DFD8?style=for-the-badge&logo=git&logoColor=white" alt="Active Status">
   </a>
+  &nbsp;
+  <a href="https://wakatime.com/@jubayer032003"> <!-- Remove if no wakatime; can be commented -->
+    <img src="https://img.shields.io/badge/WakaTime-Not_Available-grey?style=for-the-badge" alt="WakaTime">
+  </a>
 </p>
 
 <br />
 
 <!-- Real-time GitHub Profile Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=jubayer032003&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="Jubayer's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jubayer032003&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="Jubayer's Trophies" />
 </div>
 
 <br />
 
 ---
 
-## 🚀 About Me & Specialization
+## 🧠 About Me & Specialization
 
 <table border="0">
   <tr>
@@ -79,7 +86,7 @@
 
 ---
 
-## 🌟 Real Featured Repositories
+## 🌟 Featured Repositories (Live Preview)
 
 <div align="center">
 
@@ -87,36 +94,36 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>🫀 Heart Failure Prediction AI</h3>
+      <a href="https://github.com/jubayer032003/Heart-Failure-Prediction-AI">
+        <img src="https://opengraph.githubassets.com/1/jubayer032003/Heart-Failure-Prediction-AI" width="100%" alt="Heart Failure Prediction AI Preview" />
+      </a>
       <p>Full-stack AI medical risk prediction dashboard integrating FastAPI, React 19, & SHAP Explainable AI.</p>
       <p>
         <img src="https://img.shields.io/github/stars/jubayer032003/Heart-Failure-Prediction-AI?style=flat-square&color=009688" />
         <img src="https://img.shields.io/github/forks/jubayer032003/Heart-Failure-Prediction-AI?style=flat-square&color=009688" />
       </p>
-      <a href="https://github.com/jubayer032003/Heart-Failure-Prediction-AI">
-        <img src="https://img.shields.io/badge/Explore_Repository-009688?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🐶🐱 Cat & Dog Transfer Learning</h3>
-      <p>Deep Learning binary image classifier leveraging MobileNet pre-trained on ImageNet (&gt;96% test accuracy).</p>
+      <a href="https://github.com/jubayer032003/Cat-and-Dog-classification-using-Transfer-Learning">
+        <img src="https://opengraph.githubassets.com/1/jubayer032003/Cat-and-Dog-classification-using-Transfer-Learning" width="100%" alt="Cat Dog Transfer Learning Preview" />
+      </a>
+      <p>Deep Learning binary image classifier leveraging MobileNet pre-trained on ImageNet (96%+ test accuracy).</p>
       <p>
         <img src="https://img.shields.io/github/stars/jubayer032003/Cat-and-Dog-classification-using-Transfer-Learning?style=flat-square&color=FF6F00" />
         <img src="https://img.shields.io/github/forks/jubayer032003/Cat-and-Dog-classification-using-Transfer-Learning?style=flat-square&color=FF6F00" />
       </p>
-      <a href="https://github.com/jubayer032003/Cat-and-Dog-classification-using-Transfer-Learning">
-        <img src="https://img.shields.io/badge/Explore_Repository-FF6F00?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🚀 OpenCV Master Notes</h3>
+      <a href="https://github.com/jubayer032003/OpenCV_Note_By_Jubayer">
+        <img src="https://opengraph.githubassets.com/1/jubayer032003/OpenCV_Note_By_Jubayer" width="100%" alt="OpenCV Notes Preview" />
+      </a>
       <p>Complete computer vision guide covering transformations, spatial filtering, Haar Cascades, & LBPH face recognition.</p>
       <p>
         <img src="https://img.shields.io/github/stars/jubayer032003/OpenCV_Note_By_Jubayer?style=flat-square&color=5C3EE8" />
         <img src="https://img.shields.io/github/forks/jubayer032003/OpenCV_Note_By_Jubayer?style=flat-square&color=5C3EE8" />
       </p>
-      <a href="https://github.com/jubayer032003/OpenCV_Note_By_Jubayer">
-        <img src="https://img.shields.io/badge/Explore_Repository-5C3EE8?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
     </td>
   </tr>
 </table>
@@ -129,16 +136,30 @@
 
 <div align="center">
 
-<p align="center">
-  <img width="425" src="https://github-readme-stats.vercel.app/api?username=jubayer032003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=61DAFB&icon_color=7928CA&border_radius=10" alt="Jubayer's GitHub Stats" />
-  &nbsp;
-  <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer032003&theme=tokyonight&hide_border=true&background=1a1b26&ring=61DAFB&fire=FF0080&border_radius=10" alt="GitHub Streak" />
+<p>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jubayer032003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=61DAFB&icon_color=7928CA&border_radius=10" alt="Jubayer's GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer032003&theme=tokyonight&hide_border=true&background=1a1b26&ring=61DAFB&fire=FF0080&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Summary Card (Advanced) -->
+<p>
+  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jubayer032003&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <!-- Live Animated Activity Graph -->
-<p align="center">
+<p>
   <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=jubayer032003&theme=tokyo-night&hide_border=true&area=true" alt="Jubayer's Contribution Activity Graph" />
 </p>
+
+<!-- Snake Animation (Optional - Setup Required) -->
+<!-- Uncomment below if you have generated the snake via GitHub Action -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake.svg">
+</picture>
+-->
 
 </div>
 
