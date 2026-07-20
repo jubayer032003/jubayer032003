@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jubayer%20Rahman%20Chowdhury&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20Explainable%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Jubayer%20Rahman%20Chowdhury&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Development&descAlignY=52&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+Explainable+AI+for+Healthcare+%F0%9F%A9%BA;Computer+Vision+%26+Deep+Learning+Engineer+%F0%9F%A7%A0;Turning+Research+into+Production+Systems+%F0%9F%9A%80;Python+%7C+PyTorch+%7C+FastAPI+%7C+React+19" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Explainable+AI+for+Healthcare+%F0%9F%A9%BA;Computer+Vision+%26+Deep+Learning+Engineer+%F0%9F%A7%A0;Full+Stack+Developer+%7C+MERN+%2B+AI+%F0%9F%9A%80;Python+%7C+TensorFlow+%7C+React+%7C+FastAPI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,24 +12,29 @@
 <img src="https://img.shields.io/github/followers/jubayer032003?label=Followers&style=for-the-badge&color=7928CA&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=vercel&logoColor=white" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
 <br/>
 
 ## 🧠 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/graphs/mixed.svg" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/graphs/mixed.svg" />
 
-I'm a **Computer Vision & Machine Learning Developer** who turns research-grade algorithms into production-ready, interactive web applications. I specialize in **Deep Learning (CNNs, MobileNet, Transfer Learning)**, **Medical AI Diagnostics**, and **Explainable AI (SHAP)** — bridging robust backend pipelines with modern, transparent frontend interfaces.
+I'm a **Computer Vision & Machine Learning Developer** who turns research-grade algorithms into production-ready, interactive web applications. I specialize in **Deep Learning (ANN, CNN, RNN)**, **Medical AI Diagnostics**, **Explainable AI (SHAP)**, and building **full-stack MERN applications** that bring AI models to life on the web.
 
 ```yaml
 name: Jubayer Rahman Chowdhury
-role: Computer Vision & ML Developer
+role: Computer Vision & ML Developer | Full Stack Engineer
 focus:
   - Medical Risk Prediction
   - Explainable AI (XAI)
   - Real-time Computer Vision
-stack: [Python, TensorFlow, PyTorch, OpenCV, Scikit-Learn, FastAPI, React 19]
+  - Full Stack AI-powered Web Apps
+stack: [Python, JavaScript, TensorFlow, PyTorch, React, Node.js, FastAPI]
 currently_building: "Interpretable, scalable AI systems for healthcare"
 fun_fact: "I debug neural nets the way doctors read X-rays — looking for what's NOT obvious"
 ```
@@ -42,21 +47,54 @@ fun_fact: "I debug neural nets the way doctors read X-rays — looking for what'
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,js,ts&theme=dark" />
 
-**AI / Machine Learning / Computer Vision**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" />
 
-**Backend & Full-Stack**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=dark" />
 
-**Tools & Platforms**
+**AI / Machine Learning / Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0E76A8?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+**Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+**Automation & Tools**
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+</div>
+
+---
+
+## 🎯 Machine Learning & Deep Learning Toolkit
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| **Classical ML** | Linear & Logistic Regression, Decision Trees, Naïve Bayes, KNN, SVM, Random Forest, XGBoost |
+| **Deep Learning** | ANN, CNN, RNN, Transfer Learning |
+| **Computer Vision** | Image Processing, Face Detection & Recognition, Object Detection, Real-time Tracking |
+| **Explainability** | SHAP-based Model Interpretability |
 
 </div>
 
@@ -105,20 +143,6 @@ fun_fact: "I debug neural nets the way doctors read X-rays — looking for what'
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=jubayer032003&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/jubayer032003/jubayer032003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:snake-->
-
-<sub>⚙️ To make this animate, add the <b>Platane/snk</b> GitHub Action to this repo — see setup notes below.</sub>
-
 </div>
 
 ---
